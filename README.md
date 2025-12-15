@@ -90,6 +90,28 @@ student-ui/
 ```
 
 ### Screenshots
-#StudentApi Swagger Page
+## 1. StudentApi Swagger Page
 <img width="959" height="503" alt="1 StudentApi_Screenshot" src="https://github.com/user-attachments/assets/73d0d7c1-f409-4a50-9e16-85b796c5cd6d" />
+
+## 2. Registering a new user
+<img width="959" height="500" alt="2 Registering_a_User" src="https://github.com/user-attachments/assets/ea1d19ea-fc0e-4c03-a759-fe5b54c00f58" />
+
+## 3. Logged in with Same Crendentials
+<img width="959" height="500" alt="3 LoggedIn_withSameCrendentials" src="https://github.com/user-attachments/assets/944a4aa9-06b3-460f-aa41-bb3ce203076f" />
+
+## 4. Added 2 New Students
+<img width="959" height="500" alt="4 Added_NewStudents" src="https://github.com/user-attachments/assets/806d6455-d885-488d-8eac-f52b53a88ebf" />
+
+## 5. Edited Section for 2nd Student
+<img width="959" height="501" alt="5 Edited_SecFor2ndStudent" src="https://github.com/user-attachments/assets/a2cfcbcd-01b3-4997-a0c8-3c1278b312fb" />
+
+## 6. Deleted the Last Student
+<img width="959" height="499" alt="6 Deleted_theLastStudent" src="https://github.com/user-attachments/assets/adf8c48f-86f2-4d41-8ebe-c2a48106f842" />
+
+
+
+
+
+
+
 
