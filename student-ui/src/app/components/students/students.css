@@ -1,0 +1,116 @@
+:host {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  background-color: #f8fafc;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Main Card */
+.students-container {
+  background: #ffffff;
+  width: 95%;
+  max-width: 1100px;
+  padding: 30px 35px;
+  border-radius: 10px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+/* Heading */
+.students-container h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #1f2937;
+}
+
+/* Form Row */
+.form-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.form-row input {
+  flex: 1;
+  padding: 11px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+  font-size: 14px;
+}
+
+.form-row button {
+  padding: 11px 18px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.form-row button:hover {
+  background-color: #1d4ed8;
+}
+
+.form-row .cancel {
+  background-color: #9ca3af;
+}
+
+.form-row .cancel:hover {
+  background-color: #6b7280;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th {
+  background-color: #2563eb;
+  color: white;
+  padding: 12px;
+  text-align: center;
+}
+
+tbody td {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* Action buttons */
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.action-buttons button {
+  padding: 7px 14px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  color: white;
+}
+
+.action-buttons .edit {
+  background-color: #16a34a;
+}
+
+.action-buttons .delete {
+  background-color: #dc2626;
+}
+
+.action-buttons button:hover {
+  opacity: 0.9;
+}
+
+/* Loading */
+.loading {
+  text-align: center;
+  color: #6b7280;
+  margin-top: 20px;
+}
